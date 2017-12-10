@@ -3,10 +3,11 @@
   font-size: 14px;
   font-weight: bold;
   display:inline-block;
-  
+  justify-content: space-between;
+  position:fixed;
 }
 .logo{
-  color: MediumAquamarine;
+  color: MediumAquamarine;  
 }
 
 .nav{
