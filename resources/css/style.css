@@ -2,6 +2,7 @@
   font-family:Verdana;
   font-size: 14px;
   font-weight: bold;
+  display:inline-block;
   
 }
 .logo{
@@ -9,7 +10,6 @@
 }
 
 .nav{
-  display: inline-block;
 }
 
 .column{
