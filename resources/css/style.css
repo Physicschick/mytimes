@@ -15,10 +15,8 @@
 }
 
 .large{
-  border:2px solid black
-}
-.column.large{
-  width:630px;
+  border:2px solid black;
+  width: 630px;
 }
 
 .fish{
