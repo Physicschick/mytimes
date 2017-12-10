@@ -17,6 +17,9 @@
 .large{
   border:2px solid black
 }
+.column.large{
+  width:630px;
+}
 
 .fish{
   border: 2px solid black;
