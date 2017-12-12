@@ -20,15 +20,15 @@
 }
 
 .column{
-  border:2px solid black
+  border:2px solid black;
+  display: flex;
+  flex-direction:column;
+  margin-right:32px;
+}
+.column.large{
+  width:630px;
 }
 
-.large{
-  border:2px solid black;
-  width: 630px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
 }
 
 .fish{
