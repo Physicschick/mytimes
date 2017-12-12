@@ -2,9 +2,13 @@
   font-family:Verdana;
   font-size: 14px;
   font-weight: bold;
-  display:inline-block;
+  display:flex;
   justify-content: space-between;
   position:fixed;
+  align-items: center;
+  z-indez:1;
+  height:80px;
+  border-bottom:1px solid black;
 }
 .logo{
   color: MediumAquamarine;  
