@@ -55,7 +55,7 @@ header .nav{
 
 
 .fish{
-  align-items:flex-start;
+  display; block
   border: 2px solid black;
   font-family:Georgia;
   font-weight:bold;
@@ -68,17 +68,17 @@ header .nav{
 
 .az{
   border:2px solid black;
-  align-items:flex-start;
+  display:block;
 }
 
 .orca{
   border: 2px solid black;
-  align-items:flex-start;
+  display:block;
 }
 
 .earth{
   border: 2px solid black;
-  align-items:flex-start;
+  display:block;
   font-family:Georgia;
   font-weight:bold;
   font-size:30px;
@@ -89,12 +89,12 @@ header .nav{
 }
 
 .burger{
-  align-items:flex-start;
+  display:block;
   border: 2px solid black;
 }
 
 .photo{
-  align-items:flex-start;
+  display:block;
   border: 2px solid black;
   font-family:Georgia;
   font-weight:bld;
