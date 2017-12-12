@@ -1,4 +1,4 @@
-.heading{
+.header{
   font-family:Verdana;
   font-size: 14px;
   font-weight: bold;
@@ -11,8 +11,17 @@
   border-bottom:1px solid black;
 }
 .logo{
-  color: MediumAquamarine;  
+  color: MediumAquamarine;
+  display:flex;
+  align-items:center;
+  flex-grow:1;
+  padding-left:30px;
+  border:1px solid black;
 }
+header nav{
+  padding-right:40px;
+}
+  
 
 .nav span{
   display:inline-block;
