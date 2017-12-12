@@ -75,6 +75,9 @@ header .nav{
 }
 
 .column.medium{
+  display: flex;
+  flex-direction: column;
+  width:240px;
   border:1px solid black;
 }
 
@@ -95,6 +98,9 @@ header .nav{
 }
 
 .column.small{
+  display:flex;
+  width:240px;
+  flex-direction:column;
   border:1px solid black;
 }
 
