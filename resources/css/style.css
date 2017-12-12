@@ -42,7 +42,6 @@ header .nav{
 }
 
 .column{
-  border:2px solid black;
   display: flex;
   flex-direction:column;
   margin-right:32px;
@@ -55,8 +54,7 @@ header .nav{
 
 
 .fish{
-  display; block
-  border: 2px solid black;
+  display: block;
   font-family:Georgia;
   font-weight:bold;
   font-size:40px;
@@ -67,17 +65,14 @@ header .nav{
 }
 
 .az{
-  border:2px solid black;
   display:block;
 }
 
 .orca{
-  border: 2px solid black;
   display:block;
 }
 
 .earth{
-  border: 2px solid black;
   display:block;
   font-family:Georgia;
   font-weight:bold;
@@ -90,12 +85,10 @@ header .nav{
 
 .burger{
   display:block;
-  border: 2px solid black;
 }
 
 .photo{
   display:block;
-  border: 2px solid black;
   font-family:Georgia;
   font-weight:bld;
   font-size:30px;
@@ -109,19 +102,16 @@ header .nav{
   display: flex;
   flex-direction: column;
   width:240px;
-  border:1px solid black;
 }
 
 .medium{
-  border:1px solid black;
+
 }
 
 .fbi{
-  border:1px solid black;
 }
 
 .cats{
-  border:1px solid black;
   font-family:Georgia;
   font-weight:bold;
   font-size:30px;
@@ -132,27 +122,22 @@ header .nav{
 }
 
 .ny{
-  border:1px solid black;
 }
 
 .column.small{
   display:flex;
   width:240px;
   flex-direction:column;
-  border:1px solid black;
 }
 
 .small{
-  border:1px solid black;
 }
 
 .cookphoto{
-  border:1px solid black;
   
 }
 
 .last{
-  border:1px solid black;
 }
 
 
