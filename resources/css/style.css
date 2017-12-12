@@ -87,6 +87,9 @@ header .nav{
   font-weight:bld;
   font-size:30px;
   color:white;
+  background-image:
+    url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png"
+      )
 }
 
 .column.medium{
