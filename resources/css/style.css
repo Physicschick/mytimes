@@ -9,12 +9,13 @@ header{
   font-size: 14px;
   font-weight: bold;
   display:flex;
-  justify-content: space-between;
   position:fixed;
   align-items: center;
-  z-indez:1;
+  z-indez:10;
   height:80px;
   border-bottom:1px solid black;
+  width:100%;
+  background-color:white;
 }
 .logo{
   color: MediumAquamarine;
@@ -22,8 +23,8 @@ header{
   align-items:center;
   flex-grow:1;
   padding-left:30px;
-  border:1px solid black;
 }
+
 header .nav{
   padding-right:40px;
 }
