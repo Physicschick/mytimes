@@ -142,9 +142,7 @@ header .nav{
 
 .cookphoto{
   border:1px solid black;
-  background-image:
-    url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-news-bite.png"
-      );
+  
 }
 
 .last{
