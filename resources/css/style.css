@@ -1,4 +1,4 @@
-.header{
+header{
   font-family:Verdana;
   font-size: 14px;
   font-weight: bold;
@@ -18,7 +18,7 @@
   padding-left:30px;
   border:1px solid black;
 }
-header nav{
+header .nav{
   padding-right:40px;
 }
   
