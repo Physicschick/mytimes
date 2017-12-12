@@ -68,6 +68,10 @@ header .nav{
 
 .earth{
   border: 2px solid black;
+  font-family:Georgia;
+  font-weight:bold;
+  font-size:30px;
+  color:white;
 }
 
 .burger{
@@ -76,6 +80,10 @@ header .nav{
 
 .photo{
   border: 2px solid black;
+  font-family:Georgia;
+  font-weight:bld;
+  font-size:30px;
+  color:white;
 }
 
 .column.medium{
@@ -95,6 +103,10 @@ header .nav{
 
 .cats{
   border:1px solid black;
+  font-family:Georgia;
+  font-weight:bold;
+  font-size:30px;
+  color:white;
 }
 
 .ny{
