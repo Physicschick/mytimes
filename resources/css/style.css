@@ -40,11 +40,12 @@ header .nav{
   flex-direction:column;
   margin-right:32px;
 }
+
 .column.large{
   width:630px;
 }
 
-}
+
 
 .fish{
   border: 2px solid black;
@@ -72,4 +73,27 @@ header .nav{
 .photo{
   border: 2px solid black;
 }
+
+.column.medium{
+}
+
+.medium{
+}
+
+.fbi{
+}
+
+.cats{
+}
+
+.ny{
+}
+
+.column.small{
+}
+
+.small{
+}
+
+
 
