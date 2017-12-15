@@ -74,6 +74,12 @@ header .nav{
 
 .earth{
   display:block;
+  flex-direction:row;
+  height:300px;
+  font-weight:700px;
+  justify-content:normal;
+  margin-top:15px;
+  text-align:center;
   font-family:Georgia;
   font-weight:bold;
   font-size:30px;
