@@ -89,9 +89,15 @@ header .nav{
 
 .photo{
   display:block;
+  flex-direction:row;
   font-family:Georgia;
-  font-weight:bld;
+  font-weight:bold;
   font-size:30px;
+  height:300px;
+  margin-top:15px;
+  text-align:center;
+  font-weight:700;
+  justify-content:normal;
   color:white;
   background-image:
     url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png"
